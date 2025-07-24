@@ -2,7 +2,7 @@
 
 ---
 
-### 📊 **Customer Churn Analysis – Step-by-Step Procedure**
+###  **Customer Churn Analysis – Step-by-Step Procedure**
 
 1. **Data Retrieval with SQL**
 
